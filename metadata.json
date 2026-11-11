@@ -1,0 +1,8 @@
+{
+  "name": "Law Behind The Laws",
+  "description": "Comprehensive study guide for Owen Hermstring's book The Law Behind The Laws, featuring deep chapter analyses, core universal principles, reflection prompts, and practice exercises.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
